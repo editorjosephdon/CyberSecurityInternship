@@ -1,0 +1,17 @@
+Part B: Real-World Case Study
+
+I have selected the Equifax Data Breach from the provided options.  
+
+1. What happened?
+In 2017, attackers exploited a known, unpatched vulnerability in an open-source web application framework (Apache Struts) used by Equifax, a major credit reporting agency. They remained undetected for months, exfiltrating vast amounts of consumer data.
+
+2. Which part of the CIA Triad was affected?
+Confidentiality was severely compromised.
+
+
+3. What was the impact?
+The sensitive personal information—including names, birth dates, Social Security numbers, and driver's license numbers—of over 147 million individuals was exposed, leading to massive financial settlements and severe reputational damage.
+
+4. How could it have been prevented?
+
+The breach could have been prevented through strict patch management protocols (updating the software immediately when the vulnerability was announced) and better network segmentation to prevent lateral movement by the attackers.

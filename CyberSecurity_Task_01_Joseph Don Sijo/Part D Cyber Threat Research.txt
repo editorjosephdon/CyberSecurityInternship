@@ -1,0 +1,26 @@
+Part D: Cyber Threat Research
+
+
+1. Phishing Definition: 
+
+A deceptive attack where a malicious actor masquerades as a trusted entity to trick victims into revealing sensitive information, such as login credentials or financial details.  Real-world Example: An attacker sends an email looking exactly like an official bank notice, asking the user to click a link to "verify their account," which actually leads to a fake login page designed to steal their password.  Prevention Methods: Always verify sender email addresses, avoid clicking unsolicited links, and use email filtering tools.  
+
+
+2. Malware Definition:
+
+"Malicious software" designed to infiltrate, damage, or disable computers, computer systems, or networks without the user's consent.  Real-world Example: A user downloads a seemingly legitimate free software utility, which secretly installs a keylogger in the background to record their keystrokes.  Prevention Methods: Only download software from trusted, official sources, keep antivirus software updated, and regularly patch operating systems.  
+
+
+3. Ransomware Definition: 
+
+A specific type of malware that encrypts a victim's files or locks them out of their system, demanding a ransom payment to restore access.  Real-world Example: The WannaCry attack in 2017, which locked hundreds of thousands of computers globally, demanding payment in Bitcoin to decrypt files.  Prevention Methods: Maintain offline, secure backups of all critical data, avoid opening suspicious email attachments, and use robust endpoint protection.  
+
+
+4. Social Engineering Definition: 
+
+The psychological manipulation of people into performing actions or divulging confidential information, exploiting human error rather than technical vulnerabilities.  Real-world Example: A bad actor calls an employee pretending to be from the IT department, claiming they need the employee's password to fix a network issue.  Prevention Methods: Implement comprehensive security awareness training, establish strict verification protocols for sharing sensitive data, and cultivate a "trust but verify" culture.  
+
+
+5. Data Breach Definition: 
+
+A security incident where unauthorized individuals gain access to sensitive, protected, or confidential data.  Real-world Example: The 2017 Equifax breach, where attackers exploited an unpatched application vulnerability to access the personal information of over 147 million people.  Prevention Methods: Encrypt sensitive data both at rest and in transit, implement strict access controls (Principle of Least Privilege), and conduct regular vulnerability assessments. 

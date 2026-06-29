@@ -1,0 +1,8 @@
+Part A: Device Security Assessment
+
+The task is to manually check my computer to complete this section and take screenshots of my settings.  
+
+Operating System & Version: Windows 11
+System Updated: Feature Update: Windows 11- version 25H2, Quality Update- 2026-06 Security Update (KB5094126) (26200.8655)
+Antivirus Installed? (Yes/No): Yes. Note- I am Using third party antivirus software.
+Firewall Enabled? (Yes/No): Yes

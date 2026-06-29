@@ -1,0 +1,36 @@
+Part D: Threat Identification
+
+1. Insider Threat: 
+
+A security risk originating from within the organization, such as an employee or student intentionally or accidentally misusing their authorized access.
+
+Possible Impact: Unauthorized data exfiltration, system sabotage, or accidental data deletion.
+Prevention Methods: Implement the Principle of Least Privilege (PoLP), monitor user activity logs, and enforce strict offboarding procedures.
+
+2. Malware: 
+
+Malicious software designed to infiltrate, damage, or disable computer systems and networks.
+
+Possible Impact: System corruption, data theft, and loss of productivity.
+Prevention Methods: Utilize robust endpoint detection and response (EDR) tools, keep antivirus definitions updated, and disable automatic execution of external media.
+
+3. Phishing: 
+
+A social engineering attack where an attacker sends fraudulent communications appearing to come from a reputable source to steal sensitive data.
+
+Possible Impact: Compromised user credentials leading to wider network breaches or financial theft.
+Prevention Methods: Conduct regular security awareness training and implement strict email filtering and authentication protocols (DMARC/DKIM).
+
+4. Weak Passwords: 
+
+Passwords that are easily guessable, short, or reused across multiple platforms.
+
+Possible Impact: Unauthorized account access via brute-force or credential-stuffing attacks.
+Prevention Methods: Enforce complex password policies (minimum length, symbols) and mandate the use of password managers.
+
+5. Unpatched Systems: 
+
+Operating systems or software applications running outdated versions with known security vulnerabilities.
+
+Possible Impact: Attackers easily exploiting documented flaws to gain remote code execution or unauthorized access.
+Prevention Methods: Implement automated, centralized patch management schedules for all organizational assets.

@@ -1,0 +1,15 @@
+Part E: Security Recommendations
+
+
+
+1. Enable Multi-Factor Authentication (MFA): Adds a critical second layer of defense against compromised passwords.
+2. Regular System Updates: Closes known vulnerabilities before attackers can exploit them.
+3. Strong Password Policies: Prevents unauthorized access via brute-force attacks.
+4. Employee/Student Security Training: Reduces the success rate of phishing and social engineering by building a human firewall.
+5. Regular Air-Gapped Backups: Ensures data availability and recovery in the event of a ransomware attack or hardware failure.
+6. Implement Network Segmentation: Isolates sensitive data (like student records) from public-facing networks (like campus Wi-Fi) to contain breaches.
+7. Deploy Endpoint Detection and Response (EDR): Provides real-time monitoring and automated responses to malware threats on individual devices.
+8. Enforce Principle of Least Privilege: Ensures users only have access to the specific data and systems necessary for their roles, limiting insider threat impact.
+9. Encrypt Data at Rest and in Transit: Protects the confidentiality of sensitive communications and database storage.
+10. Regular Vulnerability Scanning: Proactively identifies weaknesses in the college's web portals and infrastructure before malicious actors find them.
+

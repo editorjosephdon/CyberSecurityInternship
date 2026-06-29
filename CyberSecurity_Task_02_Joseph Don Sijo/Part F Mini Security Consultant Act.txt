@@ -1,0 +1,25 @@
+Part F: Mini Security Consultant Activity
+
+ 
+Consultant Report: Improving Cybersecurity Posture
+
+Top 5 Risks Identified
+
+1.	Exposure of sensitive student records via targeted data breaches.
+2.	Compromise of the examination grading system through unauthorized access.
+3.	Loss of critical AR/VR and academic research data due to ransomware infections.
+4.	Financial fraud targeting the student fee payment gateway.
+5.	Widespread malware infection originating from unsecured campus Wi-Fi networks.
+
+Top 5 Recommendations
+
+1.	Enforce Multi-Factor Authentication (MFA) across all student, faculty, and administrative portals.
+2.	Isolate the grading and payment systems onto heavily restricted, segmented network zones.
+3.	Establish automated, immutable backups for all institutional and research data.
+4.	Mandate biannual cybersecurity awareness training for all faculty and staff.
+5.	Implement a strict, centralized patch management policy for all university-owned hardware.
+
+Expected Benefits
+
+Implementing these recommendations will significantly reduce the college's attack surface and mitigate the risk of severe financial and reputational damage. By securing sensitive databases and ensuring high data availability, the institution will foster trust among students and faculty while maintaining compliance with educational data protection standards.
+

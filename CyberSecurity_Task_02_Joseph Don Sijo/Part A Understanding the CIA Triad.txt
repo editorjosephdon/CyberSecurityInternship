@@ -1,0 +1,31 @@
+Part A: Understanding the CIA Triad
+
+
+The CIA Triad is the foundation of all cybersecurity practices.  
+
+
+Confidentiality Definition: 
+
+The principle that information is not disclosed to unauthorized individuals, entities, or processes.
+
+Why it is important: It ensures sensitive information, such as personal identity details or proprietary code, is kept secret and safe from malicious actors.
+
+Real-world example: Encrypting user passwords in a database so that even if a breach occurs, the raw text cannot be read.
+
+
+Integrity Definition: 
+
+The assurance that data remains accurate, complete, and unaltered throughout its lifecycle.
+
+Why it is important: It guarantees that the information users and systems rely on is trustworthy and hasn't been tampered with.
+
+Real-world example: Using checksums or hashing algorithms to verify that downloaded software hasn't been modified by a third party.
+
+
+Availability Definition: 
+
+The guarantee that systems, applications, and data are accessible to authorized users whenever they are needed.
+
+Why it is important: It ensures business continuity and prevents disruptive downtime for critical services.
+
+Real-world example: Deploying load balancers and redundant server clusters to keep a high-traffic web application online during usage spikes.
